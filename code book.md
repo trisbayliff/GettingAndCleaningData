@@ -4,16 +4,21 @@ The run_analysis.R code takes original data collected from the accelerometers fr
 
 The output dataset contains these variables:
 
-1 SubjectID : The subject ID that's an integer in the range 1 through 30
-2 ActivityText : The activity performed by the subject
-3 tBodyAcc-mean()-X
-4 tBodyAcc-mean()-Y
-5 tBodyAcc-mean()-Z
-6 tBodyAcc-std()-X
-7 tBodyAcc-std()-Y
-8 tBodyAcc-std()-Z
-9 tGravityAcc-mean()-X
-10 tGravityAcc-mean()-Y
+*1 SubjectID : The subject ID that's an integer in the range 1 through 30
+
+*2 ActivityText : The activity performed by the subject
+
+*3 tBodyAcc-mean()-X
+
+*4 tBodyAcc-mean()-Y
+
+*5 tBodyAcc-mean()-Z
+
+*6 tBodyAcc-std()-X
+*7 tBodyAcc-std()-Y
+*8 tBodyAcc-std()-Z
+*9 tGravityAcc-mean()-X
+*10 tGravityAcc-mean()-Y
 11 tGravityAcc-mean()-Z
 12 tGravityAcc-std()-X
 13 tGravityAcc-std()-Y
