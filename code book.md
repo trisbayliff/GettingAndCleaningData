@@ -87,4 +87,5 @@ The output dataset contains these variables:
 81 fBodyBodyGyroJerkMag-meanFreq()
 
 
+
 Variables 3 though 81 are all floating point numerics that can include negative numbers
